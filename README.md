@@ -3,6 +3,13 @@ What is it?:
 - Once the green, yellow, and red lights count down, the blue one is activated after a random interval, and two players (on the left and the right) compete to press their corresponding buttons once the blue one activates.
 - Once a player wins, a few seconds pass and a new round starts, and each round the interval to blue is a new random number to prevent guessing the interval.
 
+
+
+https://github.com/user-attachments/assets/1fff7fe5-8f91-4625-974c-6c997805a620
+
+
+
+
 As my first complete Arduino project, I had to learn everything about the device from scratch.
 
 This began with watching a few YouTube tutorials to learn basics of electronics like when to use resistors, which limit current to prevent breaking components. To follow a more organized path, I worked through the free course offered at https://www.skool.com/robonyx (amazing resource), and was able to learn about components
