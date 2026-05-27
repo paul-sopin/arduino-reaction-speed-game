@@ -24,6 +24,7 @@ After learning the basics to create a reaction speed based game, I decided to bu
 # March 26: Designing (Physical)
 Once my Arduino kit arrived that I had been anticipating, I began recreating my working demo I had built online. An important mistake I noticed while remaking the digital simulator version I made, physically, was that I had missed two resistors for the LEDs on the left and right side. If I had not implemented those in time, my two LEDs would've burned out due to too high of a current. In person, after building everything and getting used to plugging in wires and using the components, the game worked perfectly and fulfilled everything I expected of it.
 
+<img width="805" height="1393" alt="Screenshot 2026-05-26 at 6 37 17 PM" src="https://github.com/user-attachments/assets/e2a41d8c-cee6-4a65-8363-b2f4ee950c97" />
 
 https://github.com/user-attachments/assets/762d17f2-8b87-466a-a388-39afeb195648
 
